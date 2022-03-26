@@ -50,7 +50,7 @@ const Navbar = () => {
           Book Table
         </a>
       </div>
-      <div className="app__nav-smallscreen">
+      <div className="app__navbar-smallscreen">
         <GiHamburgerMenu
           color="#fff"
           fontSize={27}
